@@ -75,6 +75,15 @@ python boxcox_script.py
 
 ![Две гистограммы для сравнения распределения](res.png)
 
+Вывод (в консоль):
+
+```
+Most skewed positive feature: s3
+Optimal lambda for Box-Cox: 0.5334
+Skewness before Box-Cox: 0.7965
+Skewness after Box-Cox: 0.0311
+```
+
 ## Зависимости
 
 - Python 3.8+
